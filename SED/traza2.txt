@@ -1,0 +1,431 @@
+Estado alerta:Soy el nodo 1 y recibi un EXPIRAT2  en el tiempo 3.0 del nodo 1
+Soy el nodo 1  y mande un ELECCION de 1  al nodo  2  en el tiempo 3.0
+Soy el nodo 1  y mande un ELECCION de 1  al nodo  3  en el tiempo 3.0
+Soy el nodo 1  y mande un ELECCION de 1  al nodo  4  en el tiempo 3.0
+Soy el nodo 1  y mande un ELECCION de 1  al nodo  5  en el tiempo 3.0
+Estado alerta:Soy el nodo 2 y recibi un EXPIRAT2  en el tiempo 3.0 del nodo 2
+Soy el nodo 2  y mande un ELECCION de 2  al nodo  1  en el tiempo 3.0
+Soy el nodo 2  y mande un ELECCION de 2  al nodo  3  en el tiempo 3.0
+Soy el nodo 2  y mande un ELECCION de 2  al nodo  4  en el tiempo 3.0
+Soy el nodo 2  y mande un ELECCION de 2  al nodo  5  en el tiempo 3.0
+Estado alerta:Soy el nodo 3 y recibi un EXPIRAT2  en el tiempo 3.0 del nodo 3
+Soy el nodo 3  y mande un ELECCION de 3  al nodo  1  en el tiempo 3.0
+Soy el nodo 3  y mande un ELECCION de 3  al nodo  2  en el tiempo 3.0
+Soy el nodo 3  y mande un ELECCION de 3  al nodo  4  en el tiempo 3.0
+Soy el nodo 3  y mande un ELECCION de 3  al nodo  5  en el tiempo 3.0
+Estado alerta:Soy el nodo 4 y recibi un EXPIRAT2  en el tiempo 3.0 del nodo 4
+Soy el nodo 4  y mande un ELECCION de 4  al nodo  1  en el tiempo 3.0
+Soy el nodo 4  y mande un ELECCION de 4  al nodo  2  en el tiempo 3.0
+Soy el nodo 4  y mande un ELECCION de 4  al nodo  3  en el tiempo 3.0
+Soy el nodo 4  y mande un ELECCION de 4  al nodo  5  en el tiempo 3.0
+Estado alerta:Soy el nodo 5 y recibi un EXPIRAT2  en el tiempo 3.0 del nodo 5
+Soy el nodo 5  y mande un ELECCION de 5  al nodo  1  en el tiempo 3.0
+Soy el nodo 5  y mande un ELECCION de 5  al nodo  2  en el tiempo 3.0
+Soy el nodo 5  y mande un ELECCION de 5  al nodo  3  en el tiempo 3.0
+Soy el nodo 5  y mande un ELECCION de 5  al nodo  4  en el tiempo 3.0
+Estado ELECCION:Soy el nodo 1 y recibi un EXPIRAT3 a las 6.0 del nodo 1
+Estado ELECCION:Soy el nodo 2 y recibi un EXPIRAT3 a las 6.0 del nodo 2
+Estado ELECCION:Soy el nodo 3 y recibi un EXPIRAT3 a las 6.0 del nodo 3
+Estado ELECCION:Soy el nodo 4 y recibi un EXPIRAT3 a las 6.0 del nodo 4
+Estado ELECCION:Soy el nodo 5 y recibi un EXPIRAT3 a las 6.0 del nodo 5
+	SOY EL NODO 5  SOY EL NUEVO LIDER
+Estado LIDER:Soy el nodo 5 y recibi un EXPIRAT1 a las 8.0 del nodo 5
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 9.0 del nodo 5
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 9.0 del nodo 5
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 9.0 del nodo 5
+Estado alerta:Soy el nodo 4 y recibi un HB  en el tiempo 9.0 del nodo 5
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado alerta:Soy el nodo 1 y recibi un EXPIRAT2  en el tiempo 15.0 del nodo 1
+Soy el nodo 1  y mande un ELECCION de 1  al nodo  2  en el tiempo 15.0
+Soy el nodo 1  y mande un ELECCION de 1  al nodo  3  en el tiempo 15.0
+Soy el nodo 1  y mande un ELECCION de 1  al nodo  4  en el tiempo 15.0
+Soy el nodo 1  y mande un ELECCION de 1  al nodo  5  en el tiempo 15.0
+Estado alerta:Soy el nodo 2 y recibi un EXPIRAT2  en el tiempo 15.0 del nodo 2
+Soy el nodo 2  y mande un ELECCION de 2  al nodo  1  en el tiempo 15.0
+Soy el nodo 2  y mande un ELECCION de 2  al nodo  3  en el tiempo 15.0
+Soy el nodo 2  y mande un ELECCION de 2  al nodo  4  en el tiempo 15.0
+Soy el nodo 2  y mande un ELECCION de 2  al nodo  5  en el tiempo 15.0
+Estado alerta:Soy el nodo 3 y recibi un EXPIRAT2  en el tiempo 15.0 del nodo 3
+Soy el nodo 3  y mande un ELECCION de 3  al nodo  1  en el tiempo 15.0
+Soy el nodo 3  y mande un ELECCION de 3  al nodo  2  en el tiempo 15.0
+Soy el nodo 3  y mande un ELECCION de 3  al nodo  4  en el tiempo 15.0
+Soy el nodo 3  y mande un ELECCION de 3  al nodo  5  en el tiempo 15.0
+Estado alerta:Soy el nodo 4 y recibi un EXPIRAT2  en el tiempo 15.0 del nodo 4
+Soy el nodo 4  y mande un ELECCION de 4  al nodo  1  en el tiempo 15.0
+Soy el nodo 4  y mande un ELECCION de 4  al nodo  2  en el tiempo 15.0
+Soy el nodo 4  y mande un ELECCION de 4  al nodo  3  en el tiempo 15.0
+Soy el nodo 4  y mande un ELECCION de 4  al nodo  5  en el tiempo 15.0
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado ELECCION:Soy el nodo 1 y recibi un EXPIRAT3 a las 18.0 del nodo 1
+Estado ELECCION:Soy el nodo 2 y recibi un EXPIRAT3 a las 18.0 del nodo 2
+Estado ELECCION:Soy el nodo 3 y recibi un EXPIRAT3 a las 18.0 del nodo 3
+Estado ELECCION:Soy el nodo 4 y recibi un EXPIRAT3 a las 18.0 del nodo 4
+	SOY EL NODO 4  SOY EL NUEVO LIDER
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 20.0 del nodo 4
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 21.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 21.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 21.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 22.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 22.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 22.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 22.0 del nodo 3
+Estado nolider:Soy el nodo 1 y recibi un HB a las 23.0 del nodo 4
+Soy el nodo 1  y mande un OK al nodo 4  en el tiempo 23.0
+Estado nolider:Soy el nodo 2 y recibi un HB a las 23.0 del nodo 4
+Soy el nodo 2  y mande un OK al nodo 4  en el tiempo 23.0
+Estado nolider:Soy el nodo 3 y recibi un HB a las 23.0 del nodo 4
+Soy el nodo 3  y mande un OK al nodo 4  en el tiempo 23.0
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 24.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 24.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 24.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 24.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 25.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 25.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 25.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 26.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 26.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 26.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 26.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 27.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 27.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 27.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 28.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 28.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 28.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 28.0 del nodo 3
+Estado nolider:Soy el nodo 1 y recibi un HB a las 29.0 del nodo 4
+Soy el nodo 1  y mande un OK al nodo 4  en el tiempo 29.0
+Estado nolider:Soy el nodo 2 y recibi un HB a las 29.0 del nodo 4
+Soy el nodo 2  y mande un OK al nodo 4  en el tiempo 29.0
+Estado nolider:Soy el nodo 3 y recibi un HB a las 29.0 del nodo 4
+Soy el nodo 3  y mande un OK al nodo 4  en el tiempo 29.0
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 30.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 30.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 30.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 30.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 31.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 31.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 31.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 32.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 32.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 32.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 32.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 33.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 33.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 33.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 34.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 34.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 34.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 34.0 del nodo 3
+Estado nolider:Soy el nodo 1 y recibi un HB a las 35.0 del nodo 4
+Soy el nodo 1  y mande un OK al nodo 4  en el tiempo 35.0
+Estado nolider:Soy el nodo 2 y recibi un HB a las 35.0 del nodo 4
+Soy el nodo 2  y mande un OK al nodo 4  en el tiempo 35.0
+Estado nolider:Soy el nodo 3 y recibi un HB a las 35.0 del nodo 4
+Soy el nodo 3  y mande un OK al nodo 4  en el tiempo 35.0
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 36.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 36.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 36.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 36.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 37.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 37.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 37.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 38.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 38.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 38.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 38.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 39.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 39.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 39.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 40.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 40.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 40.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 40.0 del nodo 3
+Estado nolider:Soy el nodo 1 y recibi un HB a las 41.0 del nodo 4
+Soy el nodo 1  y mande un OK al nodo 4  en el tiempo 41.0
+Estado nolider:Soy el nodo 2 y recibi un HB a las 41.0 del nodo 4
+Soy el nodo 2  y mande un OK al nodo 4  en el tiempo 41.0
+Estado nolider:Soy el nodo 3 y recibi un HB a las 41.0 del nodo 4
+Soy el nodo 3  y mande un OK al nodo 4  en el tiempo 41.0
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 42.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 42.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 42.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 42.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 43.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 43.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 43.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 44.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 44.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 44.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 44.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 45.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 45.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 45.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 46.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 46.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 46.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 46.0 del nodo 3
+Estado nolider:Soy el nodo 1 y recibi un HB a las 47.0 del nodo 4
+Soy el nodo 1  y mande un OK al nodo 4  en el tiempo 47.0
+Estado nolider:Soy el nodo 2 y recibi un HB a las 47.0 del nodo 4
+Soy el nodo 2  y mande un OK al nodo 4  en el tiempo 47.0
+Estado nolider:Soy el nodo 3 y recibi un HB a las 47.0 del nodo 4
+Soy el nodo 3  y mande un OK al nodo 4  en el tiempo 47.0
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 48.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 48.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 48.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 48.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 49.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 49.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 49.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 50.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 50.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 50.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 50.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 51.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 51.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 51.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 52.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 52.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 52.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 52.0 del nodo 3
+Estado nolider:Soy el nodo 1 y recibi un HB a las 53.0 del nodo 4
+Soy el nodo 1  y mande un OK al nodo 4  en el tiempo 53.0
+Estado nolider:Soy el nodo 2 y recibi un HB a las 53.0 del nodo 4
+Soy el nodo 2  y mande un OK al nodo 4  en el tiempo 53.0
+Estado nolider:Soy el nodo 3 y recibi un HB a las 53.0 del nodo 4
+Soy el nodo 3  y mande un OK al nodo 4  en el tiempo 53.0
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 54.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 54.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 54.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 54.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 55.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 55.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 55.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 56.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 56.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 56.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 56.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 57.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 57.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 57.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 58.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 58.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 58.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 58.0 del nodo 3
+Estado nolider:Soy el nodo 1 y recibi un HB a las 59.0 del nodo 4
+Soy el nodo 1  y mande un OK al nodo 4  en el tiempo 59.0
+Estado nolider:Soy el nodo 2 y recibi un HB a las 59.0 del nodo 4
+Soy el nodo 2  y mande un OK al nodo 4  en el tiempo 59.0
+Estado nolider:Soy el nodo 3 y recibi un HB a las 59.0 del nodo 4
+Soy el nodo 3  y mande un OK al nodo 4  en el tiempo 59.0
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 60.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 60.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 60.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 60.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 61.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 61.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 61.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 62.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 62.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 62.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 62.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 63.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 63.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 63.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 64.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 64.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 64.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 64.0 del nodo 3
+Estado nolider:Soy el nodo 1 y recibi un HB a las 65.0 del nodo 4
+Soy el nodo 1  y mande un OK al nodo 4  en el tiempo 65.0
+Estado nolider:Soy el nodo 2 y recibi un HB a las 65.0 del nodo 4
+Soy el nodo 2  y mande un OK al nodo 4  en el tiempo 65.0
+Estado nolider:Soy el nodo 3 y recibi un HB a las 65.0 del nodo 4
+Soy el nodo 3  y mande un OK al nodo 4  en el tiempo 65.0
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 66.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 66.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 66.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 66.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 67.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 67.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 67.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 68.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 68.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 68.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 68.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 69.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 69.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 69.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 70.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 70.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 70.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 70.0 del nodo 3
+Estado nolider:Soy el nodo 1 y recibi un HB a las 71.0 del nodo 4
+Soy el nodo 1  y mande un OK al nodo 4  en el tiempo 71.0
+Estado nolider:Soy el nodo 2 y recibi un HB a las 71.0 del nodo 4
+Soy el nodo 2  y mande un OK al nodo 4  en el tiempo 71.0
+Estado nolider:Soy el nodo 3 y recibi un HB a las 71.0 del nodo 4
+Soy el nodo 3  y mande un OK al nodo 4  en el tiempo 71.0
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 72.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 72.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 72.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 72.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 73.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 73.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 73.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 74.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 74.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 74.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 74.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 75.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 75.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 75.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 76.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 76.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 76.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 76.0 del nodo 3
+Estado nolider:Soy el nodo 1 y recibi un HB a las 77.0 del nodo 4
+Soy el nodo 1  y mande un OK al nodo 4  en el tiempo 77.0
+Estado nolider:Soy el nodo 2 y recibi un HB a las 77.0 del nodo 4
+Soy el nodo 2  y mande un OK al nodo 4  en el tiempo 77.0
+Estado nolider:Soy el nodo 3 y recibi un HB a las 77.0 del nodo 4
+Soy el nodo 3  y mande un OK al nodo 4  en el tiempo 77.0
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 78.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 78.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 78.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 78.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 79.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 79.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 79.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 80.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 80.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 80.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 80.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 81.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 81.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 81.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 82.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 82.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 82.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 82.0 del nodo 3
+Estado nolider:Soy el nodo 1 y recibi un HB a las 83.0 del nodo 4
+Soy el nodo 1  y mande un OK al nodo 4  en el tiempo 83.0
+Estado nolider:Soy el nodo 2 y recibi un HB a las 83.0 del nodo 4
+Soy el nodo 2  y mande un OK al nodo 4  en el tiempo 83.0
+Estado nolider:Soy el nodo 3 y recibi un HB a las 83.0 del nodo 4
+Soy el nodo 3  y mande un OK al nodo 4  en el tiempo 83.0
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 84.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 84.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 84.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 84.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 85.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 85.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 85.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 86.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 86.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 86.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 86.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 87.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 87.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 87.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 88.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 88.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 88.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 88.0 del nodo 3
+Estado nolider:Soy el nodo 1 y recibi un HB a las 89.0 del nodo 4
+Soy el nodo 1  y mande un OK al nodo 4  en el tiempo 89.0
+Estado nolider:Soy el nodo 2 y recibi un HB a las 89.0 del nodo 4
+Soy el nodo 2  y mande un OK al nodo 4  en el tiempo 89.0
+Estado nolider:Soy el nodo 3 y recibi un HB a las 89.0 del nodo 4
+Soy el nodo 3  y mande un OK al nodo 4  en el tiempo 89.0
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 90.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 90.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 90.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 90.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 91.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 91.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 91.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 92.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 92.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 92.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 92.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 93.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 93.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 93.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 94.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 94.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 94.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 94.0 del nodo 3
+Estado nolider:Soy el nodo 1 y recibi un HB a las 95.0 del nodo 4
+Soy el nodo 1  y mande un OK al nodo 4  en el tiempo 95.0
+Estado nolider:Soy el nodo 2 y recibi un HB a las 95.0 del nodo 4
+Soy el nodo 2  y mande un OK al nodo 4  en el tiempo 95.0
+Estado nolider:Soy el nodo 3 y recibi un HB a las 95.0 del nodo 4
+Soy el nodo 3  y mande un OK al nodo 4  en el tiempo 95.0
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 96.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 96.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 96.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 96.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 97.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 97.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 97.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 98.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 98.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 98.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 98.0 del nodo 3
+Estado alerta:Soy el nodo 1 y recibi un HB  en el tiempo 99.0 del nodo 4
+Estado alerta:Soy el nodo 2 y recibi un HB  en el tiempo 99.0 del nodo 4
+Estado alerta:Soy el nodo 3 y recibi un HB  en el tiempo 99.0 del nodo 4
+	SOY EL NODO 5  ESTOY FUERA DE SERVICIO
+Estado LIDER:Soy el nodo 4 y recibi un EXPIRAT1 a las 100.0 del nodo 4
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 100.0 del nodo 1
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 100.0 del nodo 2
+Estado LIDER:Soy el nodo 4 y recibi un OK a las 100.0 del nodo 3
